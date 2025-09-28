@@ -203,7 +203,7 @@ I am actively seeking partners, investors, and collaborators who share my vision
 
 ## Developer Sandbox: A Visual Tour of the Workflow
 
-MagicProxy is primarily an integration proxy server. To facilitate development and debugging, we have built in an integrated Developer Sandbox. The following visual tour demonstrates how to use it to configure agents, manage prompts, and observe the LLM's thought process in real-time.
+MagicProxy is primarily an integration proxy server. To facilitate development and debugging, I have built in an integrated Developer Sandbox. The following visual tour demonstrates how to use it to configure agents, manage prompts, and observe the LLM's thought process in real-time.
 
 ---
 
