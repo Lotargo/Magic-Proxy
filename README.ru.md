@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/logo.png" alt="Magic Proxy Logo" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/logo.png" alt="Magic Proxy Logo" width="700"/>
   <h1>Magic Proxy</h1>
   <p>
     <img src="https://img.shields.io/badge/Project%20Status-Active%20Development-orange" alt="Project Status: Active Development"/>
@@ -211,7 +211,7 @@ MagicProxy — это в первую очередь прокси-сервер �
 
 *Главный экран, где вы настраиваете и запускаете тестовые сессии, наблюдая за результатом в реальном времени.*
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_main.png" alt="Главный экран Playground" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_main.png" alt="Главный экран Playground" width="700"/>
 </div>
 
 ---
@@ -220,7 +220,7 @@ MagicProxy — это в первую очередь прокси-сервер �
 
 *Встроенный редактор с `diff`-вьювером для полного контроля над промптами и манифестами.*
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_prompts.png" alt="Редактор Промптов" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_prompts.png" alt="Редактор Промптов" width="700"/>
 </div>
 
 ---
@@ -229,7 +229,7 @@ MagicProxy — это в первую очередь прокси-сервер �
 
 *Управление агентами и их "стилями мышления" через `reasoning_mode` в `proxy_config.yaml`.*
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_config_models.png" alt="Конфигурация Моделей" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_config_models.png" alt="Конфигурация Моделей" width="700"/>
 </div>
 
 ---
@@ -238,7 +238,7 @@ MagicProxy — это в первую очередь прокси-сервер �
 
 *Любые изменения отслеживаются и отображаются в виде наглядного `diff`, что позволяет избежать ошибок.*
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_config_diff.png" alt="Контроль Изменений" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_config_diff.png" alt="Контроль Изменений" width="700"/>
 </div>
 
 ---
@@ -247,7 +247,7 @@ MagicProxy — это в первую очередь прокси-сервер �
 
 *Динамическая настройка ReAct-сессии прямо в Playground для быстрого переключения между тестовыми конфигурациями.*
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_session_setup.png" alt="Активация ReAct-сессии" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_session_setup.png" alt="Активация ReAct-сессии" width="700"/>
 </div>
 
 ---
@@ -257,13 +257,13 @@ MagicProxy — это в первую очередь прокси-сервер �
 *Конечная цель — глубокий анализ и отладка. Наблюдайте за внутренним монологом агента (`Thought`) и оценивайте качество финального ответа.*
 
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_thought_process.png" alt="Процесс Мышления Агента" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_thought_process.png" alt="Процесс Мышления Агента" width="700"/>
   <br/>
   <em>Наблюдение за внутренним монологом агента для отладки его логики.</em>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github.com/Lotargo/Magic-Proxy-/blob/main/docs/image/sandbox_final_answer.png" alt="Финальный Ответ Агента" width="700"/>
+  <img src="https://github.com/Lotargo/Magic-Proxy/blob/main/docs/image/sandbox_final_answer.png" alt="Финальный Ответ Агента" width="700"/>
   <br/>
   <em>Оценка качества и структуры финального ответа, сгенерированного агентом.</em>
 </div>
